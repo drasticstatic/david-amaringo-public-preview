@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/3rdqn8rx95pw7.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"px-6 py-20 max-w-2xl mx-auto text-center","children":[["$","p",null,{"className":"text-xs uppercase tracking-[0.3em] text-amber-400 mb-3","children":"Coming Soon"}],["$","h1",null,{"className":"text-3xl font-semibold mb-4 visionary-rainbow-text inline-block","children":"Services"}],["$","p",null,{"className":"text-neutral-400 leading-relaxed","children":"David’s services reach beyond artwork for sale — commissions, visionary art guidance, and his ongoing healing work with the Holy Earth Foundation. This page is a placeholder while Kenney puts together the fuller picture of what David offers the world."}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"VNeo9lRTMQ60yQ8D321GA"}
+4:null
