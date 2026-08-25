@@ -108,4 +108,6 @@ npm run build
 <a id="license"></a>
 ## 📜 License
 
-Private repository. All rights reserved.
+This repository is the private development source — not licensed for
+reuse. Its [public preview](https://github.com/drasticstatic/david-amaringo-public-preview)
+is available under the [MIT License](https://github.com/drasticstatic/david-amaringo-public-preview/blob/main/LICENSE).
