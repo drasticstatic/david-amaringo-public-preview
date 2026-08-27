@@ -40,11 +40,11 @@ David's family is currently facing financial hardship. This site exists to give 
 <a id="the-goal"></a>
 ## 🎯 The Goal
 
-Give David a simple, dignified home online while Kenney gathers the fuller picture of his story, services, and needs — a **dev portal / concept prototype** today, not a finished commercial site. Every asset currently on the site is a placeholder, standing in until real photography, artwork scans, and copy arrive.
+A simple, dignified home online for David — his art, his teaching lineage, and the work he continues with the Holy Earth Foundation, growing as more of his story lands.
 
 - **Showcase, not storefront** — his visionary art and teaching lineage, presented with care, nothing offered for direct sale yet (see [Architecture](#architecture) for the GitHub Pages compliance stance)
-- **Neo-Amazónico identity** — a deep jungle-canopy palette with a rainbow flourish reserved for art-showcase moments, echoing the visionary-art tradition's own gold linework
-- **Donation-ready, web3-aware** — Ayahuasca work carries payment-processor stigma, and David lives in Peru; crypto-donation readiness is on the roadmap alongside conventional donation buttons, both fully compliant with GitHub Pages' terms
+- **Kaleidoscopic Neo-Amazónico identity** — a deep twilight-indigo base with six full accent scales (azure, tangerine, verdant, orchid, bloom, gold) and a rainbow flourish reserved for art-showcase moments
+- **Donation-ready, web3-aware** — Ayahuasca work carries payment-processor stigma, and David lives in Peru; a `/patronage` page explores what web3-native support could look like, alongside conventional donation buttons, both fully compliant with GitHub Pages' terms
 - **Sister site to `iamoneself`** — same technical family, same builder, same Chaiconi Bari community
 
 ---
