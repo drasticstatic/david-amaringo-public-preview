@@ -1,4 +1,4 @@
-:HL["/david-amaringo-public-preview/_next/static/chunks/0osbkie5l0i20.css","style"]
+:HL["/david-amaringo-public-preview/_next/static/chunks/24_s0e7o46o4g.css","style"]
 :HL["/david-amaringo-public-preview/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/david-amaringo-public-preview/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"docs","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"resume","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"bhoEWGB-kbOTgapZ31w16"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"docs","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"resume","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"JTUtpGy_zAfKC9pchCttW"}
