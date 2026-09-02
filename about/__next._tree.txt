@@ -4,4 +4,4 @@
 :HL["/david-amaringo-public-preview/_next/static/media/daa29454a3e61cb2-s.p.25_z0nxfvnd9o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/david-amaringo-public-preview/gallery/day-and-night.jpg","image"]
 :HL["/david-amaringo-public-preview/gallery/pablo-amaringo-sitting.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"about","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"2mPJbag_6erK1Y0j6TGS5"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"about","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"_ckm1LIuTw1qdbZ7OoFY1"}
