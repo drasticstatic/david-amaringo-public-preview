@@ -2,7 +2,7 @@
 
 > *A home online for Maestro David Amaringo — Ayahuasca visionary artist, Chaiconi Bari healer, trained by his uncle, the legendary Pablo Cesar Amaringo Shuña, founder of the USKO-AYAR Amazonian School of Painting.*
 
-[![License](https://img.shields.io/badge/license-Private-lightgrey?style=flat)](https://github.com/drasticstatic/david-amaringo) [![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code%20CLI-blueviolet)](https://code.claude.com/docs/en/overview) [![Status](https://img.shields.io/badge/Status-%F0%9F%8C%B1%20Early%20Foundation-orange)](https://github.com/drasticstatic/david-amaringo)
+[![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey?style=flat)](LICENSE) [![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code%20CLI-blueviolet)](https://code.claude.com/docs/en/overview) [![Status](https://img.shields.io/badge/Status-%F0%9F%8C%B1%20Early%20Foundation-orange)](https://github.com/drasticstatic/david-amaringo)
 
 ---
 
