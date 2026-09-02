@@ -3,4 +3,4 @@
 :HL["/david-amaringo-public-preview/_next/static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/david-amaringo-public-preview/_next/static/media/daa29454a3e61cb2-s.p.25_z0nxfvnd9o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/david-amaringo-public-preview/gallery/day-and-night.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"docs","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"the-art-of-well-living","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"OxE0slupwgIcnU8VLYteL"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"docs","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"the-art-of-well-living","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"9uC8lJHd6GNgRP44-SVxI"}
