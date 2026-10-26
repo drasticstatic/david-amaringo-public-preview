@@ -1,6 +1,9 @@
-:HL["/david-amaringo-public-preview/_next/static/chunks/2typx099w_4cc.css","style"]
-:HL["/david-amaringo-public-preview/_next/static/media/61f83d1116c3c119-s.p.1i770ixt5m62g.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/david-amaringo-public-preview/_next/static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/david-amaringo-public-preview/_next/static/media/daa29454a3e61cb2-s.p.25_z0nxfvnd9o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/david-amaringo-public-preview/_next/static/chunks/21w4odejgtnkr.css","style"]
+:HL["/david-amaringo-public-preview/_next/static/media/369631335a87ae76-s.p.1i770ixt5m62g.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/david-amaringo-public-preview/_next/static/media/41588bc4adb2b863-s.p.25_z0nxfvnd9o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/david-amaringo-public-preview/_next/static/media/d4b605c61b941c57-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/david-amaringo-public-preview/gallery/david-evening-jungle-vines.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"docs","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"privacy-policy","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"hsaT1jE_tCfeRLON8Nl-u"}
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"privacy-policy","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"docs","h":64,"c":"$Q2"}]]
+0:{"b":"qb1_-faqLdMN7_3nfDrD5","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

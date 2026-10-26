@@ -1,9 +1,23 @@
-1:"$Sreact.fragment"
-2:I[22016,["/david-amaringo-public-preview/_next/static/chunks/13iasfqqoqc19.js","/david-amaringo-public-preview/_next/static/chunks/35yiuystbxw2e.js","/david-amaringo-public-preview/_next/static/chunks/2uqa1esj4ubch.js"],""]
-3:I[5014,["/david-amaringo-public-preview/_next/static/chunks/13iasfqqoqc19.js","/david-amaringo-public-preview/_next/static/chunks/35yiuystbxw2e.js","/david-amaringo-public-preview/_next/static/chunks/2uqa1esj4ubch.js"],"default"]
-4:I[98822,["/david-amaringo-public-preview/_next/static/chunks/13iasfqqoqc19.js","/david-amaringo-public-preview/_next/static/chunks/35yiuystbxw2e.js","/david-amaringo-public-preview/_next/static/chunks/2uqa1esj4ubch.js"],"default"]
+2:"$Sreact.fragment"
+3:"/david-amaringo-public-preview/_next/static/chunks/2uezachmxbamd.js"
+4:"/david-amaringo-public-preview/_next/static/chunks/2gp4rdz2plynu.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+d:"/david-amaringo-public-preview/_next/static/chunks/3sj_n9wsy-8bg.js"
+e:I[22016,["$3","$4","$d"],""]
+f:I[5014,["$3","$4","$d"],"default"]
+10:I[98822,["$3","$4","$d"],"default"]
+15:"ViewportBoundary"
+16:I[97367,["$3","$4"],"$15"]
+17:"MetadataBoundary"
+18:I[97367,["$3","$4"],"$17"]
+19:"$Sreact.suspense"
+1a:I[27201,["$3","$4"],"IconMark"]
 :HL["/david-amaringo-public-preview/gallery/david-evening-jungle-vines.jpg","image"]
-5:T975,# 🛡️ Privacy Policy
+8:X
+8:C
+9:X
+11:T975,# 🛡️ Privacy Policy
 
 *Last updated: 2026-08-27*
 
@@ -38,28 +52,19 @@ Reach out through the [Contact page](/contact) with any questions about this pol
 ---
 
 *This document is also available in this site's [source repository](https://github.com/drasticstatic/david-amaringo-public-preview) as `docs/privacy-policy.md`.*
-9:X
-e:X
-e:C
-0:{"buildId":"hsaT1jE_tCfeRLON8Nl-u","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"px-6 py-16 max-w-2xl mx-auto","children":[["$","$L2",null,{"href":"/","className":"inline-flex items-center gap-1.5 text-xs text-azure-300 hover:text-azure-200 mb-8","children":[["$","$L3",null,{"iconNode":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]],"className":"lucide-arrow-left h-3.5 w-3.5"}],"Back home"]}],["$","img",null,{"src":"/david-amaringo-public-preview/gallery/david-evening-jungle-vines.jpg","alt":"Evening light through jungle vines","className":"w-full h-40 object-cover rounded-2xl mb-8 canopy-breathe"}],["$","$L4",null,{"content":"$5"}],["$","p",null,{"className":"mt-12 text-xs text-neutral-600 text-center","children":["View the raw markdown on"," ",["$","a",null,{"href":"https://github.com/drasticstatic/david-amaringo-public-preview/blob/main/docs/privacy-policy.md","target":"_blank","rel":"noopener noreferrer","className":"underline underline-offset-2 hover:text-neutral-400","children":"GitHub ↗"}]]}]]}],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
-13:I[97367,["/david-amaringo-public-preview/_next/static/chunks/13iasfqqoqc19.js","/david-amaringo-public-preview/_next/static/chunks/35yiuystbxw2e.js"],"OutletBoundary"]
-14:"$Sreact.suspense"
-16:I[97367,["/david-amaringo-public-preview/_next/static/chunks/13iasfqqoqc19.js","/david-amaringo-public-preview/_next/static/chunks/35yiuystbxw2e.js"],"ViewportBoundary"]
-17:I[97367,["/david-amaringo-public-preview/_next/static/chunks/13iasfqqoqc19.js","/david-amaringo-public-preview/_next/static/chunks/35yiuystbxw2e.js"],"MetadataBoundary"]
-18:I[27201,["/david-amaringo-public-preview/_next/static/chunks/13iasfqqoqc19.js","/david-amaringo-public-preview/_next/static/chunks/35yiuystbxw2e.js"],"IconMark"]
-19:I[39756,["/david-amaringo-public-preview/_next/static/chunks/13iasfqqoqc19.js","/david-amaringo-public-preview/_next/static/chunks/35yiuystbxw2e.js"],"default"]
-1a:I[37457,["/david-amaringo-public-preview/_next/static/chunks/13iasfqqoqc19.js","/david-amaringo-public-preview/_next/static/chunks/35yiuystbxw2e.js"],"default"]
-6:["$","script","script-0",{"src":"/david-amaringo-public-preview/_next/static/chunks/2uqa1esj4ubch.js","async":true}]
-7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
-a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Privacy Policy — David Amaringo"}],["$","meta","1",{"name":"description","content":"What this site does and does not do with your data."}],["$","link","2",{"rel":"icon","href":"/david-amaringo-public-preview/icon.svg?icon.35dh42wedcbcq.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
-f:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
-12:true
-15:null
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"px-6 py-16 max-w-2xl mx-auto","children":[["$","$Le",null,{"href":"/","className":"inline-flex items-center gap-1.5 text-xs text-azure-300 hover:text-azure-200 mb-8","children":[["$","$Lf",null,{"iconNode":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]],"className":"lucide-arrow-left h-3.5 w-3.5"}],"Back home"]}],["$","img",null,{"src":"/david-amaringo-public-preview/gallery/david-evening-jungle-vines.jpg","alt":"Evening light through jungle vines","className":"w-full h-40 object-cover rounded-2xl mb-8 canopy-breathe"}],["$","$L10",null,{"content":"$11"}],["$","p",null,{"className":"mt-12 text-xs text-neutral-600 text-center","children":["View the raw markdown on"," ",["$","a",null,{"href":"https://github.com/drasticstatic/david-amaringo-public-preview/blob/main/docs/privacy-policy.md","target":"_blank","rel":"noopener noreferrer","className":"underline underline-offset-2 hover:text-neutral-400","children":"GitHub ↗"}]]}]]}],["$L12"],"$L13"]}],"p":"$@14","v":null,"s":"$9"}}]]
+a:[["children",{"s":{"n":"slug","t":"d","k":"privacy-policy","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+1:[["children",{"s":"docs","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Privacy Policy — David Amaringo"}],["$","meta","1",{"name":"description","content":"What this site does and does not do with your data."}],["$","link","2",{"rel":"icon","href":"/david-amaringo-public-preview/icon.svg?icon.35dh42wedcbcq.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1b","v":null,"s":"$9"}},"a":"$@1c","u":"$@1d","b":"qb1_-faqLdMN7_3nfDrD5"}
+1e:I[97367,["$3","$4"],"OutletBoundary"]
+12:["$","script","script-0",{"src":"/david-amaringo-public-preview/_next/static/chunks/3sj_n9wsy-8bg.js","async":true}]
+13:["$","$L1e",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+1d:true
 9:300
+1f:null
 9:C
-11:0
+1c:0
 b:"$undefined"
-d:"$undefined"
-10:"$undefined"
-8:"$undefined"
+7:"$undefined"
+1b:"$undefined"
+14:"$undefined"

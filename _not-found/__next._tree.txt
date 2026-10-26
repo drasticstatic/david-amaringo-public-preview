@@ -1,2 +1,4 @@
-:HL["/david-amaringo-public-preview/_next/static/chunks/2typx099w_4cc.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"hsaT1jE_tCfeRLON8Nl-u"}
+:HL["/david-amaringo-public-preview/_next/static/chunks/21w4odejgtnkr.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
+0:{"b":"qb1_-faqLdMN7_3nfDrD5","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
