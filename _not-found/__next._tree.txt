@@ -1,4 +1,4 @@
 :HL["/david-amaringo-public-preview/_next/static/chunks/21w4odejgtnkr.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"qb1_-faqLdMN7_3nfDrD5","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"da4Dv93h0Pnv0KKt-gi5K","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
